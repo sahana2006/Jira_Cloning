@@ -1,1 +1,2 @@
 # Jira_Cloning
+This project is designed to clone Jira's issue tracking system. It provides a simplified version of Jira's functionalities, allowing users to create, manage, and track issues effectively. The application is built using modern web technologies and follows best practices for software development.
